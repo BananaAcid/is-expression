@@ -1,3 +1,7 @@
+Added ES7 - https://github.com/MatAtBread/acorn-es7-plugin
+
+---
+
 # is-expression
 
 Validates a string as a JavaScript expression

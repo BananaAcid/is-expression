@@ -1,6 +1,7 @@
 'use strict';
 
 var acorn = require('acorn');
+require('acorn-es7-plugin')(acorn); // patch
 var objectAssign = require('object-assign');
 
 module.exports = isExpression;

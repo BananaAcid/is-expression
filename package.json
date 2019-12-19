@@ -1,14 +1,15 @@
 {
   "name": "is-expression",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Check if a string is a valid JavaScript expression",
   "keywords": [
     "javascript",
     "expression"
   ],
   "dependencies": {
-    "acorn": "~4.0.2",
-    "object-assign": "^4.0.1"
+    "acorn": "~7.1.0",
+    "object-assign": "^4.0.1",
+    "acorn-es7-plugin": "^1.1.7"
   },
   "devDependencies": {
     "istanbul": "*",
